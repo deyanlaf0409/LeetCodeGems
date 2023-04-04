@@ -1,3 +1,5 @@
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
 #include <stdio.h>
 
 int search(int a[], int s, int e){
